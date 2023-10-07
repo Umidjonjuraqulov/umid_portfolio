@@ -22,7 +22,7 @@ col2.write("2021-2025")
 st.write("")
 
 col1, col2 = st.columns((1, 7))
-col1.image("images/samgasi.png", width=80)
+col1.image("images/samgasi.PNG", width=80)
 col2.write("**Academic Lyceum under Samarkand State Architecture and Construction Institute**") 
 col2.write("High School, Mathematics")
 col2.write("2019-2021")
