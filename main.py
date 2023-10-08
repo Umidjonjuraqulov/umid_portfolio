@@ -6,7 +6,7 @@ st.title("Umidjon Juraqulov")
 st.sidebar.image("images/umid_image.png")
 st.sidebar.write("📞 **Phone**: +998 93 331 33 48")
 st.sidebar.write("✉️ **Email**: juraqulovumidjon0210@gmail.com")
-st.sidebar.write("GitHub: https://github.com/Umidjonjuraqulov")
+st.sidebar.write("**GitHub**: https://github.com/Umidjonjuraqulov")
 
 
 st.subheader("Backend Developer")
