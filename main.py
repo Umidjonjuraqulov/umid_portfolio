@@ -8,6 +8,7 @@ st.sidebar.write("📞 **Phone**: +998 93 331 33 48")
 st.sidebar.write("✉️ **Email**: juraqulovumidjon0210@gmail.com")
 st.sidebar.write("**GitHub**: https://github.com/Umidjonjuraqulov")
 st.sidebar.write("[**Instagram**](https://instagram.com/juraqulov_umidjon2003)")
+st.sidebar.write("[**Facebook**](https://www.facebook.com/profile.php?id=100079703570952&mibextid=ZbWKwL)")
 
 
 st.subheader("Backend Developer")
