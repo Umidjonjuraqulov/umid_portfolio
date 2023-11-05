@@ -50,3 +50,8 @@ col2.write("**Book Share LLC**")
 col2.write("Backend Developer Intern")
 col2.write("Sep, 2023 - Present")
 st.markdown("***")
+st.subheader("Certificates")
+st.write("HackerRank")
+st.image("images/hackerrank.png")
+st.write("Data: 05 nov, 2023")
+
