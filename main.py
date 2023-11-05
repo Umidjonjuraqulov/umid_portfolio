@@ -52,6 +52,6 @@ col2.write("Sep, 2023 - Present")
 st.markdown("***")
 st.subheader("Certificates")
 st.write("HackerRank")
-st.image("images/hackerrank.png")
+st.image("images/hackerrank.PNG")
 st.write("Data: 05 nov, 2023")
 
