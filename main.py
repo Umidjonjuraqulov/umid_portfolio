@@ -37,7 +37,7 @@ st.markdown("***")
 st.subheader("Work")
 
 col1, col2 = st.columns((1, 7))
-col1.image("images/raccoons_logo.png", width=80)
+col1.image("images/school_18.png", width=80)
 col2.write("**School N-18**") 
 col2.write("Mathematics Teacher")
 col2.write("Sep, 2023 - Present")
