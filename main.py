@@ -50,7 +50,12 @@ col2.write("**Raccoons AI**")
 col2.write("Backend Developer Intern")
 col2.write("Jan, 2025 - Present")
 st.markdown("***")
+
 st.subheader("Certificates")
+st.write("HackerRank")
+st.image("images/hackerrank.PNG")
+st.write("Data: 05 nov, 2023")
+
 st.write("HackerRank")
 st.image("images/hackerrank.PNG")
 st.write("Data: 05 nov, 2023")
