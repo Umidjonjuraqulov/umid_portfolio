@@ -20,7 +20,7 @@ st.markdown("***")
 st.subheader("Education")
 
 col1, col2 = st.columns((1, 7))
-col1.image("images/logouzfi.ico", width=80)
+col1.image("https://uzfi.uz/static/assets/images/uzfi.png", width=80)
 col2.write("**Uzbek-Finnish Pedagogical Institute**") 
 col2.write("Bachelor, Mathematics and Informatics")
 col2.write("2021-2025")
